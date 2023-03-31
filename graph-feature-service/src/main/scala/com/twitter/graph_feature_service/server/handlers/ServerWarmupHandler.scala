@@ -17,7 +17,7 @@ class ServerWarmupHandler @Inject() (warmup: ThriftWarmup) extends Handler {
 
   private val testingAccounts: Array[Long] = {
     Seq(
-      12L, //jack
+      44196397L, //elon
       21447363L, // KATY PERRY
       42562446L, // Stephen Curry
       813286L // Barack Obama
